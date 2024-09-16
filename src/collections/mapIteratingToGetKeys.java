@@ -19,6 +19,7 @@ public class mapIteratingToGetKeys {
 			System.out.println(entry.getKey());
 		}
 		
-		hm.forEach((key,value)-> System.out.println(key));
+		hm.forEach((key,value)-> System.out.println(key))
+		;
 	}
 }
